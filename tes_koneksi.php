@@ -1,0 +1,9 @@
+﻿<?php
+
+require_once "koneksi.php";
+
+echo "Koneksi database berhasil!";
+
+$conn->close();
+
+?>
